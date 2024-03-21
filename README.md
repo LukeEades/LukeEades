@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p>I'm a 18-year-old aspiring developer from the US</p>
-<p>I enjoy learning all things programming but am especially interested in graphics and game development</p>
+<p>I'm a california grown kid trying to just make some cool shit</p>
+<p>I enjoy learning most anything to do with programming but game development has a special place in my heart</p>
 <!--
 **LukeEades/LukeEades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
