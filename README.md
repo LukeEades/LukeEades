@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p>I'm a california grown kid who loves to learn</p>
-<p>My current favorite topics are low-level programming, graphics, and game development</p>
+<p>Trying to learn something new everyday</p>
+<p>Particularly obsessed with low level programming, graphics, and game development</p>
 <!--
 **LukeEades/LukeEades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
