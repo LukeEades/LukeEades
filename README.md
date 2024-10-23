@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p>Trying to learn something new everyday</p>
-<p>Particularly obsessed with low level programming, graphics, and game development</p>
+<p>Particularly obsessed with low level programming and networking currently</p>
 <!--
 **LukeEades/LukeEades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
